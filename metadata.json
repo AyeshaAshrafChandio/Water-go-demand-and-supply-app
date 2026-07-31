@@ -1,0 +1,10 @@
+{
+  "name": "WaterGo - Water Delivery Marketplace",
+  "description": "Mobile-first water delivery marketplace app connecting customers with nearby water suppliers via live GPS tracking and dynamic bidding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
