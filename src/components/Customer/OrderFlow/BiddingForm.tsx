@@ -208,7 +208,7 @@ export const BiddingForm: React.FC<BiddingFormProps> = ({ selectedWaterType, onR
         </div>
       </div>
 
-      {/* InDrive Bidding Price Offer Input */}
+      {/* Bidding Price Offer Input */}
       <div className="space-y-2 bg-slate-800/80 p-3.5 rounded-xl border border-cyan-800/60">
         <div className="flex items-center justify-between">
           <label className="text-xs font-bold text-cyan-300 flex items-center space-x-1">

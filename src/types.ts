@@ -98,7 +98,7 @@ export interface Order {
   waterTypeNameUr: string;
   waterTypeUnit: string;
   quantity: number;
-  offeredPricePKR: number; // InDrive initial offer by customer
+  offeredPricePKR: number; // Initial offer price by customer
   finalPricePKR?: number;  // Agreed price after counter-offer
   status: OrderStatus;
   selectedSupplierId?: string;

@@ -49,7 +49,7 @@ export const Navbar: React.FC = () => {
                 {getTranslation(language, 'appName')}
               </h1>
               <p className="text-[10px] text-cyan-300 font-medium tracking-wide">
-                {language === 'ur' ? 'پانی کی فوری ڈلیوری' : 'InDrive for Water'}
+                {getTranslation(language, 'appTagline')}
               </p>
             </div>
           </div>

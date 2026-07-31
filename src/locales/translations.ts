@@ -4,7 +4,7 @@ export const translations = {
   en: {
     // General & Branding
     appName: 'WaterGo',
-    appTagline: 'Mobile Water Delivery Marketplace',
+    appTagline: 'WaterGo — Supply & Demand',
     switchRole: 'Switch View:',
     customer: 'Customer',
     supplier: 'Supplier / Driver',
@@ -110,7 +110,7 @@ export const translations = {
   ur: {
     // General & Branding
     appName: 'واٹر گو',
-    appTagline: 'پانی کی فوری ڈلیوری مارکیٹ پلیس',
+    appTagline: 'WaterGo — Supply & Demand',
     switchRole: 'رول تبدیل کریں:',
     customer: 'گاہک (خریدار)',
     supplier: 'سپلائر / ڈرائیور',
